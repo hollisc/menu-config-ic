@@ -6,6 +6,18 @@ eureka:
     serviceUrl:
       defaultZone: http://172.17.0.2:8761/eureka
 ---
+
+wfd:
+  profiles: appetizer-service
+  appetizer:
+    order: 1
+    type: appetizer
+    menu:
+      - Hummus
+      - Crab Cakes
+      - Chicken Satay
+      - Mozzerella Sticks
+---
 spring:
   profiles: cloud
   cloud:
