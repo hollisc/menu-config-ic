@@ -1,7 +1,7 @@
 wfd:
   entree:
     order: 2
-    type: dinner
+    type: entree
     menu:
       - Steak
       - Chicken
