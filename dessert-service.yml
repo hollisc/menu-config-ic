@@ -1,6 +1,6 @@
 wfd:
   dessert:
-    order: 4
+    order: 3
     type: dessert
     menu:
       - Chocolate Cake
