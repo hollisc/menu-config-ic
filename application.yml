@@ -4,6 +4,6 @@ info:
 eureka:
   client:
     serviceUrl:
-      # defaultZone: http://172.17.0.2:8761/eureka
-      defaultZone: http://172.31.0.159:8761/eureka
+      defaultZone: http://172.17.0.2:8761/eureka
+      # defaultZone: http://172.31.0.159:8761/eureka
 
