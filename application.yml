@@ -1,9 +1,8 @@
 info:
   description: WFD Menu Samples
-  url: https://github.com/dbellagio/wfd-menu-config
+  url: https://github.com/hollisc/wfd-menu-config
 eureka:
   client:
     serviceUrl:
-      # defaultZone: http://172.17.0.2:8761/eureka
-      defaultZone: http://172.31.0.186:8761/eureka
+      defaultZone: http://192.168.99.100:8761/eureka
 
