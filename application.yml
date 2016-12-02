@@ -1,8 +1,8 @@
 info:
   description: WFD Menu Samples
-  url: https://github.com/hollisc/wfd-menu-config
+  url: https://github.com/hollisc/menu-config-ic
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://192.168.99.100:8761/eureka
+      defaultZone: http://172.31.0.10:8761/eureka
 
